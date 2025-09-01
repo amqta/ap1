@@ -1,1 +1,1 @@
-dfskasiopfdgjiodf
+Welcome to the AP1 repository! Here are the codes written in the "Algoritmos e Programação I" classes. The initial laboratories approaches basic C programming, such as primitive data types and fixed and conditional loops. The intermediate classes approach themes such as vectors and strings.
